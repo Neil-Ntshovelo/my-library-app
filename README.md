@@ -14,3 +14,4 @@ Tailwind CSS (for styling)
 React Icons (for loading spinner)
 Open Library API (for book data)
 ## link
+https://neil-capstoneproject.netlify.app/
